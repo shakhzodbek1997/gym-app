@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Stack, Typography, Button } from '@mui/material';  /** Typography is a style for texts */
+import { Box, Typography, Button } from '@mui/material';  /** Typography is a style for texts */
 
 import HeroBannerImage from '../assets/images/banner.png';
 
@@ -43,7 +43,7 @@ const HeroBanner = () => {
         lineHeight="35px"
         mb={4}
       >
-        Check out the most Effective exercises
+        Check out the most Effective exercises personalized to you
       </Typography>
       
       
